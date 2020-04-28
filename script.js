@@ -5,7 +5,6 @@ var body = document.getElementById("gradient");
 // color0.addEventListener("input", function() {
 //     body.style.background = "linear-gradient(to right, " + color0.value + ", " + color1.value + ")";
 // });
-
 // color1.addEventListener("input", function() {
 //     body.style.background = "linear-gradient(to right, " + color0.value + ", " + color1.value + ")";
 // });
